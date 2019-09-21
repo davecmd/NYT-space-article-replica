@@ -21,6 +21,14 @@ p {
     top: 0;
     
 }
+
+.NYT-logo {
+    display: block;
+    width: 210px;
+    height: 28px;
+    background-size: 210px;
+    background-image: url("images/NewYorkTimes.svg");
+}
 main {
     display: block;
     margin-top: 50px;
