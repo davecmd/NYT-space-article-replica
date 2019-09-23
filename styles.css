@@ -22,12 +22,25 @@ p {
     
 }
 
+#creator {
+    display: inline;
+    margin-left: 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#creator a {
+    font-size: 14px;
+    color: slateblue;
+}
+
 .NYT-logo {
     display: block;
     width: 210px;
     height: 28px;
     background-size: 210px;
     background-image: url("images/NewYorkTimes.svg");
+    margin-right: 350px;
 }
 main {
     display: block;
